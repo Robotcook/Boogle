@@ -1,0 +1,88 @@
+body {
+  font-family: Helvetica;
+}
+input.login-button {
+background-color: #0E86F6;
+color: white;
+padding: 10px 20px;
+border: 1px solid #0E86F6;
+border-radius: 20px;
+float: right;
+}
+.login-button:hover {
+background-color: white;
+color: black;
+}
+div.logo-container, div.query-container {
+  text-align: center;
+}
+div.query-container input {
+  border-radius: 15px;
+  padding: 10px;
+  border: 1px medium none;
+  width: 500px;
+}
+img.logo {
+  margin-top: 150px;
+  width: 272px;
+  height: 120px;
+}
+.title-block {
+text-align: center;
+}
+
+.login-title {
+  font-size: 60px;
+  color: grey;
+}
+
+.signin-block {
+  text-align: center;
+}
+.login-text {
+  font-size: 30px;
+  color: grey;
+}
+.form-sign-in{
+  max-width: 350px;
+}
+
+.account-wall {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.profile-picture {
+  height: 200px;
+  width: 200px;
+  margin: 0 auto 30px;
+  display: block;
+  }
+.form-sign-in {
+    max-width: 330px;
+    margin: 0 auto;
+}
+.form-control {
+  padding: 10px;
+  font-size: 15px;
+}
+.signin-button {
+  background-color: #0E86F6;
+  color: white;
+  padding: 10px 20px;
+  border: 1px solid #0E86F6;
+  border-radius: 20px;
+}
+.signin-button:hover {
+background-color: white;
+color: black;
+}
+.need-help {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.create-account {
+text-align: center;
+margin-top: 15px;
+}
